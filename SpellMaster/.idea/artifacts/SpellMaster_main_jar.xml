@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SpellMaster.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpellMaster_main_jar</output-path>
+    <root id="archive" name="SpellMaster.main.jar">
+      <element id="module-output" name="SpellMaster.main" />
+    </root>
+  </artifact>
+</component>
